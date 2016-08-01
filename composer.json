@@ -27,7 +27,7 @@
 		}
 	},
 	"require-dev": {
-		"inpsyde/monkery-test-case": "dev-master"
+		"inpsyde/monkery-test-case": "~1.1"
 	},
 	"repositories": [
 		{

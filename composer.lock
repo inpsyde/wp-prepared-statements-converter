@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "1f659d7e34863b64bf4e33c78ac35ec1",
-    "content-hash": "6dc764c0970c67a958957e4ea05e17ed",
+    "hash": "ce7749c56c1ea09556bc43033f9f023c",
+    "content-hash": "02c9ee0acada64727ca09f06e57394bf",
     "packages": [
         {
             "name": "dnaber/string-theory",
@@ -261,16 +261,16 @@
         },
         {
             "name": "inpsyde/monkery-test-case",
-            "version": "dev-master",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/inpsyde/monkery-test-case.git",
-                "reference": "7addf56771739ab21624f24a1519eba5384bd002"
+                "reference": "599ae0a9c7c981486a1953ee55bcfedce799b0b0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/inpsyde/monkery-test-case/zipball/7addf56771739ab21624f24a1519eba5384bd002",
-                "reference": "7addf56771739ab21624f24a1519eba5384bd002",
+                "url": "https://api.github.com/repos/inpsyde/monkery-test-case/zipball/599ae0a9c7c981486a1953ee55bcfedce799b0b0",
+                "reference": "599ae0a9c7c981486a1953ee55bcfedce799b0b0",
                 "shasum": ""
             },
             "require": {
@@ -298,8 +298,8 @@
                     "role": "Company"
                 }
             ],
-            "description": "Composition package of brain/monkey and mockery/mockery with a custom test case",
-            "time": "2016-03-10 16:32:13"
+            "description": "Composition package of brain/monkey and mockery/mockery with a custom test case class for PHPUnit",
+            "time": "2016-05-29 08:59:45"
         },
         {
             "name": "mockery/mockery",
@@ -371,8 +371,7 @@
     "minimum-stability": "dev",
     "stability-flags": {
         "inpsyde/wp-db-types": 20,
-        "dnaber/string-theory": 20,
-        "inpsyde/monkery-test-case": 20
+        "dnaber/string-theory": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
