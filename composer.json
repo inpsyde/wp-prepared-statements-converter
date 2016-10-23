@@ -18,8 +18,7 @@
 	"minimum-stability": "dev",
 	"require": {
 		"php": ">=5.5.0",
-		"inpsyde/wp-db-types": "dev-master",
-		"dnaber/string-theory": "dev-master"
+		"inpsyde/wp-db-types": "dev-master"
 	},
 	"autoload": {
 		"psr-4": {
